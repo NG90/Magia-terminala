@@ -1,0 +1,175 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  1.7  0.3 103256 12776 ?        Ss   22:31   0:04 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    22:31   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   22:31   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   22:31   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/0:0-events]
+root           6  0.0  0.0      0     0 ?        I<   22:31   0:00 [kworker/0:0H-kblockd]
+root           7  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/0:1-events]
+root           8  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/u2:0-scsi_tmf_1]
+root           9  0.0  0.0      0     0 ?        I<   22:31   0:00 [mm_percpu_wq]
+root          10  0.1  0.0      0     0 ?        S    22:31   0:00 [ksoftirqd/0]
+root          11  0.1  0.0      0     0 ?        I    22:31   0:00 [rcu_sched]
+root          12  0.0  0.0      0     0 ?        S    22:31   0:00 [migration/0]
+root          13  0.0  0.0      0     0 ?        S    22:31   0:00 [idle_inject/0]
+root          14  0.0  0.0      0     0 ?        S    22:31   0:00 [cpuhp/0]
+root          15  0.0  0.0      0     0 ?        S    22:31   0:00 [kdevtmpfs]
+root          16  0.0  0.0      0     0 ?        I<   22:31   0:00 [netns]
+root          17  0.0  0.0      0     0 ?        S    22:31   0:00 [rcu_tasks_kthre]
+root          18  0.0  0.0      0     0 ?        S    22:31   0:00 [kauditd]
+root          19  0.0  0.0      0     0 ?        S    22:31   0:00 [khungtaskd]
+root          20  0.0  0.0      0     0 ?        S    22:31   0:00 [oom_reaper]
+root          21  0.0  0.0      0     0 ?        I<   22:31   0:00 [writeback]
+root          22  0.0  0.0      0     0 ?        S    22:31   0:00 [kcompactd0]
+root          23  0.0  0.0      0     0 ?        SN   22:31   0:00 [ksmd]
+root          24  0.0  0.0      0     0 ?        SN   22:31   0:00 [khugepaged]
+root          26  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/u2:1-events_unbound]
+root         116  0.0  0.0      0     0 ?        I<   22:31   0:00 [kintegrityd]
+root         117  0.0  0.0      0     0 ?        I<   22:31   0:00 [kblockd]
+root         118  0.0  0.0      0     0 ?        I<   22:31   0:00 [blkcg_punt_bio]
+root         119  0.0  0.0      0     0 ?        I<   22:31   0:00 [tpm_dev_wq]
+root         120  0.0  0.0      0     0 ?        I<   22:31   0:00 [ata_sff]
+root         121  0.0  0.0      0     0 ?        I<   22:31   0:00 [md]
+root         122  0.0  0.0      0     0 ?        I<   22:31   0:00 [edac-poller]
+root         123  0.0  0.0      0     0 ?        I<   22:31   0:00 [devfreq_wq]
+root         124  0.0  0.0      0     0 ?        S    22:31   0:00 [watchdogd]
+root         126  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/0:2-events]
+root         129  0.0  0.0      0     0 ?        S    22:31   0:00 [kswapd0]
+root         130  0.0  0.0      0     0 ?        S    22:31   0:00 [ecryptfs-kthrea]
+root         133  0.0  0.0      0     0 ?        I<   22:31   0:00 [kthrotld]
+root         134  0.0  0.0      0     0 ?        I<   22:31   0:00 [acpi_thermal_pm]
+root         135  0.0  0.0      0     0 ?        S    22:31   0:00 [scsi_eh_0]
+root         136  0.0  0.0      0     0 ?        I<   22:31   0:00 [scsi_tmf_0]
+root         137  0.0  0.0      0     0 ?        S    22:31   0:00 [scsi_eh_1]
+root         138  0.0  0.0      0     0 ?        I<   22:31   0:00 [scsi_tmf_1]
+root         139  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/u2:2-events_power_efficient]
+root         140  0.0  0.0      0     0 ?        I<   22:31   0:00 [vfio-irqfd-clea]
+root         141  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/u2:3-events_power_efficient]
+root         142  0.0  0.0      0     0 ?        I<   22:31   0:00 [ipv6_addrconf]
+root         153  0.0  0.0      0     0 ?        I<   22:31   0:00 [kstrp]
+root         157  0.0  0.0      0     0 ?        I<   22:31   0:00 [kworker/u3:0]
+root         160  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/u2:4-events_power_efficient]
+root         174  0.0  0.0      0     0 ?        I<   22:31   0:00 [charger_manager]
+root         175  0.1  0.0      0     0 ?        I<   22:31   0:00 [kworker/0:1H-kblockd]
+root         218  0.0  0.0      0     0 ?        S    22:31   0:00 [scsi_eh_2]
+root         219  0.0  0.0      0     0 ?        I<   22:31   0:00 [scsi_tmf_2]
+root         221  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/0:3-cgroup_destroy]
+root         242  0.1  0.0      0     0 ?        S    22:31   0:00 [jbd2/sda5-8]
+root         243  0.0  0.0      0     0 ?        I<   22:31   0:00 [ext4-rsv-conver]
+root         282  0.8  0.5  51700 24048 ?        S<s  22:31   0:01 /lib/systemd/systemd-journald
+root         304  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/0:4-events]
+root         305  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/0:5-events]
+root         307  0.5  0.1  23480  7152 ?        Ss   22:31   0:01 /lib/systemd/systemd-udevd
+root         308  0.0  0.0      0     0 ?        S    22:31   0:00 [irq/18-vmwgfx]
+root         309  0.0  0.0      0     0 ?        I<   22:31   0:00 [ttm_swap]
+root         320  0.0  0.0      0     0 ?        I    22:31   0:00 [kworker/0:6-events]
+root         323  0.0  0.0      0     0 ?        S<   22:31   0:00 [loop0]
+root         324  0.0  0.0      0     0 ?        S<   22:31   0:00 [loop1]
+root         327  0.0  0.0      0     0 ?        S<   22:31   0:00 [loop2]
+root         328  0.0  0.0      0     0 ?        S<   22:31   0:00 [loop3]
+root         331  0.0  0.0      0     0 ?        S<   22:31   0:00 [loop4]
+root         333  0.0  0.0      0     0 ?        S<   22:31   0:00 [loop5]
+root         338  0.0  0.0      0     0 ?        S<   22:31   0:00 [loop6]
+root         381  0.0  0.0      0     0 ?        I<   22:31   0:00 [iprt-VBoxWQueue]
+root         391  0.0  0.0      0     0 ?        I<   22:31   0:00 [cryptd]
+root         518  0.1  0.0      0     0 ?        I    22:31   0:00 [kworker/0:7-events]
+systemd+     526  0.7  0.3  24048 12456 ?        Ss   22:31   0:01 /lib/systemd/systemd-resolved
+systemd+     527  0.7  0.1  90412  6376 ?        Ssl  22:31   0:01 /lib/systemd/systemd-timesyncd
+root         557  0.0  0.1 249380  7516 ?        Ssl  22:31   0:00 /usr/lib/accountsservice/accounts-daemon
+root         558  0.0  0.0   2540   780 ?        Ss   22:31   0:00 /usr/sbin/acpid
+avahi        563  0.0  0.0   8500  3504 ?        Ss   22:31   0:00 avahi-daemon: running [mat-VirtualBox.local]
+root         565  0.0  0.0  20572  3016 ?        Ss   22:31   0:00 /usr/sbin/cron -f
+root         566  0.0  0.2  39696  9012 ?        Ss   22:31   0:00 /usr/sbin/cupsd -l
+message+     568  0.5  0.1   8748  5576 ?        Ss   22:31   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         569  0.1  0.4 346852 19488 ?        Ssl  22:31   0:00 /usr/sbin/NetworkManager --no-daemon
+root         586  0.1  0.5  50428 20184 ?        Ss   22:31   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         587  0.1  0.2 234920  9276 ?        Ssl  22:31   0:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog       593  0.0  0.1 224324  4744 ?        Ssl  22:31   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         600  5.5  0.9 727256 36348 ?        Ssl  22:31   0:11 /usr/lib/snapd/snapd
+root         601  0.0  0.1 246860  6696 ?        Ssl  22:31   0:00 /usr/libexec/switcheroo-control
+root         604  0.7  0.2  16956  8348 ?        Ss   22:31   0:01 /lib/systemd/systemd-logind
+root         608  0.0  0.3 392768 12260 ?        Ssl  22:31   0:00 /usr/lib/udisks2/udisksd
+root         613  0.0  0.1  13664  4968 ?        Ss   22:31   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        621  0.0  0.0   8320   324 ?        S    22:31   0:00 avahi-daemon: chroot helper
+root         641  0.0  0.3 180424 12864 ?        Ssl  22:31   0:00 /usr/sbin/cups-browsed
+root         644  0.0  0.2 313720 10552 ?        Ssl  22:31   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root         741  0.1  0.5 128964 23028 ?        Ssl  22:31   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+whoopsie     766  0.0  0.3 326840 15576 ?        Ssl  22:32   0:00 /usr/bin/whoopsie -f
+kernoops     772  0.0  0.0  11240   448 ?        Ss   22:32   0:00 /usr/sbin/kerneloops --test
+kernoops     777  0.0  0.0  11240   448 ?        Ss   22:32   0:00 /usr/sbin/kerneloops
+root         923  0.0  0.0  92920   352 ?        S    22:32   0:00 VBoxClient --vmsvga
+root         924  0.0  0.0  93052  2084 ?        S    22:32   0:00 VBoxClient --vmsvga
+root         944  0.0  0.1 305872  7248 ?        SLsl 22:32   0:00 /usr/sbin/lightdm
+root         967  0.0  0.0 240472  2868 ?        Sl   22:32   0:00 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+root         975  1.6  1.8 239496 73220 tty7     Ssl+ 22:32   0:02 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root         977  0.0  0.0  19588  1896 tty1     Ss+  22:32   0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root        1048  0.0  0.0      0     0 ?        S<   22:32   0:00 [loop7]
+root        1150  0.9  0.2 263392  9880 ?        Ssl  22:32   0:01 /usr/lib/upower/upowerd
+rtkit       1171  0.0  0.0 152916  3024 ?        SNsl 22:32   0:00 /usr/libexec/rtkit-daemon
+root        1176  0.0  0.2 160060  8188 ?        Sl   22:32   0:00 lightdm --session-child 12 19
+mat         1222  0.2  0.2  18904 10300 ?        Ss   22:32   0:00 /lib/systemd/systemd --user
+mat         1223  0.0  0.1 104292  4448 ?        S    22:32   0:00 (sd-pam)
+mat         1245  1.0  0.4 632952 18652 ?        S<sl 22:32   0:01 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+mat         1247  0.3  0.6 596540 26636 ?        SNsl 22:32   0:00 /usr/libexec/tracker-miner-fs
+mat         1250  0.0  0.1 251316  7692 ?        Sl   22:32   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+mat         1254  0.3  0.1   8140  5284 ?        Ss   22:32   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+mat         1270  0.0  0.1 250864  7736 ?        Ssl  22:32   0:00 /usr/libexec/gvfsd
+mat         1275  0.0  0.1 378336  6532 ?        Sl   22:32   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+mat         1276  0.0  0.2 325060  9244 ?        Ssl  22:32   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+mat         1287  0.3  0.5 278988 22616 ?        Ssl  22:32   0:00 xfce4-session
+mat         1298  0.0  0.1 249124  6760 ?        Ssl  22:32   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+mat         1304  0.0  0.1 246852  6436 ?        Ssl  22:32   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+mat         1315  0.0  0.1 247028  6204 ?        Ssl  22:32   0:00 /usr/libexec/gvfs-goa-volume-monitor
+mat         1322  0.0  0.8 626488 35540 ?        Sl   22:32   0:00 /usr/libexec/goa-daemon
+mat         1346  0.0  0.2 399640  9236 ?        Sl   22:32   0:00 /usr/libexec/goa-identity-service
+mat         1348  0.0  0.2 327880  9100 ?        Ssl  22:32   0:00 /usr/libexec/gvfs-afc-volume-monitor
+mat         1409  0.0  0.0  35836   324 ?        S    22:32   0:00 /usr/bin/VBoxClient --clipboard
+mat         1410  0.0  0.1 102184  4092 ?        Sl   22:32   0:00 /usr/bin/VBoxClient --clipboard
+mat         1420  0.3  0.5 410904 21800 ?        SNl  22:32   0:00 /usr/lib/x86_64-linux-gnu/tumbler-1/tumblerd
+mat         1426  0.0  0.0  35836   324 ?        S    22:32   0:00 /usr/bin/VBoxClient --display
+mat         1427  0.0  0.0  35972  3256 ?        S    22:32   0:00 /usr/bin/VBoxClient --display
+mat         1441  0.0  0.0  35836   324 ?        S    22:32   0:00 /usr/bin/VBoxClient --seamless
+mat         1442  0.0  0.0 102020  2124 ?        Sl   22:32   0:00 /usr/bin/VBoxClient --seamless
+mat         1447  0.0  0.0  35836   328 ?        S    22:32   0:00 /usr/bin/VBoxClient --draganddrop
+mat         1448  0.3  0.0 102540  2200 ?        Sl   22:32   0:00 /usr/bin/VBoxClient --draganddrop
+mat         1457  0.0  0.0   6032   456 ?        Ss   22:32   0:00 /usr/bin/ssh-agent /usr/bin/im-launch startxfce4
+mat         1477  0.0  0.1 305396  6480 ?        Ssl  22:32   0:00 /usr/libexec/at-spi-bus-launcher
+mat         1483  0.0  0.1   7348  4236 ?        S    22:32   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+mat         1487  0.1  0.1 230180  6160 ?        Sl   22:32   0:00 /usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
+mat         1492  0.0  0.1 162888  6364 ?        Sl   22:32   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+mat         1497  0.5  0.6 242200 27692 ?        Sl   22:32   0:00 /usr/bin/xfce4-screensaver --no-daemon
+mat         1508  1.1  1.9 356372 78148 ?        Sl   22:32   0:01 xfwm4 --replace
+mat         1546  0.3  0.5 239888 20464 ?        Ssl  22:32   0:00 xfsettingsd
+mat         1547  0.3  0.7 281704 28572 ?        Sl   22:32   0:00 xfce4-panel
+mat         1553  0.1  0.5 353184 22628 ?        Sl   22:32   0:00 Thunar --daemon
+mat         1559  0.5  0.9 322428 38796 ?        Sl   22:32   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libwhiskermenu.so 1 25165831 whiskermenu Whisker Menu Show a menu to easily access installed applications
+mat         1560  1.2  1.1 329448 48284 ?        Sl   22:32   0:01 xfdesktop
+mat         1561  0.1  0.5 204344 22272 ?        Sl   22:32   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libsystray.so 5 25165832 systray Notification Area Area where notification icons appear
+mat         1562  0.3  0.8 246436 34104 ?        Sl   22:32   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libnotification-plugin.so 6 25165833 notification-plugin Notification Plugin Notification plugin for the Xfce panel
+mat         1563  0.2  0.6 281780 25320 ?        Sl   22:32   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libindicator-plugin.so 7 25165834 indicator Indicator Plugin Provides a panel area for Unity indicators. Indicators allow applications and system services to display their status and interact with the user.
+mat         1564  0.3  0.8 393360 35072 ?        Sl   22:32   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libstatusnotifier.so 8 25165835 statusnotifier Status Notifier Plugin Provides a panel area for status notifier items (application indicators)
+mat         1565  0.3  0.8 246644 35632 ?        Sl   22:32   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxfce4powermanager.so 9 25165836 power-manager-plugin Power Manager Plugin Display the battery levels of your devices and control the brightness of your display
+mat         1566  0.5  0.8 514368 36144 ?        Sl   22:32   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libpulseaudio-plugin.so 10 25165837 pulseaudio PulseAudio Plugin Adjust the audio volume of the PulseAudio sound system
+mat         1585  0.0  0.4 275068 18108 ?        Ssl  22:33   0:00 /usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd
+mat         1593  0.0  0.2 323704  8156 ?        Ssl  22:33   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+mat         1602  1.5  0.9 322316 37360 ?        Sl   22:33   0:02 /usr/bin/tilda
+mat         1604  0.5  0.8  70488 34340 ?        S    22:33   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+mat         1613  0.0  0.1 321780  4880 ?        Sl   22:33   0:00 /usr/libexec/geoclue-2.0/demos/agent
+mat         1614  0.4  1.3 712856 53868 ?        Sl   22:33   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+mat         1615  0.2  0.5 498444 23020 ?        Sl   22:33   0:00 update-notifier
+mat         1620  0.8  1.0 519144 44168 ?        Sl   22:33   0:01 /usr/bin/python3 /usr/bin/blueman-applet
+mat         1621  0.0  0.4 198232 16220 ?        Sl   22:33   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+mat         1626  0.1  0.2 236860  9152 ?        Sl   22:33   0:00 xiccd
+colord      1642  0.5  0.3 257372 14684 ?        Ssl  22:33   0:00 /usr/libexec/colord
+mat         1682  0.4  0.7 362076 30620 ?        Sl   22:33   0:00 nm-applet
+mat         1689  0.2  0.4 204744 19416 ?        Ssl  22:33   0:00 xfce4-power-manager
+mat         1725  0.0  0.1 324980  7964 ?        Sl   22:33   0:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+mat         1734  0.0  0.1 173408  6404 ?        Ssl  22:33   0:00 /usr/libexec/gvfsd-metadata
+mat         1745  0.1  0.6 401356 25300 ?        Ssl  22:33   0:00 /usr/libexec/evolution-source-registry
+mat         1781  0.2  0.7 718716 30132 ?        Ssl  22:33   0:00 /usr/libexec/evolution-calendar-factory
+mat         1790  0.0  0.1 156092  5436 ?        Sl   22:33   0:00 /usr/libexec/dconf-service
+mat         1793  0.1  0.7 684316 29568 ?        Ssl  22:33   0:00 /usr/libexec/evolution-addressbook-factory
+mat         1815  0.1  0.1  22168  5500 pts/0    Ss   22:33   0:00 /bin/bash
+mat         1826  0.5  0.9 293412 38956 ?        Sl   22:33   0:00 /usr/bin/python3 /usr/bin/blueman-tray
+mat         1852  0.0  0.1  43968  6584 ?        Ss   22:33   0:00 /usr/lib/bluetooth/obexd
+mat         1941  0.0  0.0  22636  3328 pts/0    R+   22:35   0:00 ps aux

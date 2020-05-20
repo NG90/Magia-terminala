@@ -1,0 +1,30 @@
+  519  ls -al
+  520  mkdir linux_task
+  521  cd linux_task/
+  522  git init
+  523  touch processes.txt
+  524  ls
+  525  ps aux
+  526  ps aux > processes.txt 
+  527  cat processes.txt 
+  528  cp processes.txt copy.txt
+  529  ls
+  530  diff copy.txt processes.txt 
+  531  wc
+  532  wc processes.txt 
+  533  wc -l processes.txt 
+  534  man wc
+  535  wc -l processes.txt 
+  536  wc -l processes.txt >> processes.txt 
+  537  tail processes.txt 
+  538  grep "/bin" processes.txt 
+  539  grep "/bin" processes.txt >> processes.txt 
+  540  lss
+  541  cat processes.txt 
+  542  grep "/bin" processes.txt > tmp.txt; cat tmp.txt >> processes.txt; rm tmp.txt
+  543  less processes.txt 
+  544  history
+  545  history | tail -n 25
+  546  history | tail -n 26
+  547  history | tail -n 28
+  548  history | tail -n 30 > commands.txt
